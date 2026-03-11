@@ -16,7 +16,7 @@ The dashboard provides a complete analysis of sales, quantity, transactions, cus
 
 ##  Dashboard Preview
 Below is the preview of the dashboard created in Power BI:
-<a href="">
+<a href="Dashboard.png"> Dashboard
 
 
 ##  Key Insights from the Dashboard
