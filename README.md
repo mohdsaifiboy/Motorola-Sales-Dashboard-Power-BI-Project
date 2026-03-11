@@ -52,11 +52,13 @@ Below is the preview of the dashboard created in Power BI:
 - Highest sales recorded on *Saturday*  
 - Decreasing trend throughout working days
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - *Power BI Desktop*
 - *Excel Dataset*
 - *ETL (Cleaning & Transformation)*
 
 ---
 
-## 📁 Project Files
+##  Project Files
+[Download Dashboard File]()
+[Download Dataset]()
