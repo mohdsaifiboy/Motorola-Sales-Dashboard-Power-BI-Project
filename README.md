@@ -61,4 +61,5 @@ Below is the preview of the dashboard created in Power BI:
 
 ##  Project Files
 [Download Dashboard File](Motorola_sales-Dashboard.pbix)
+<br>
 [Download Dataset](My_Dataset.xlsx)
